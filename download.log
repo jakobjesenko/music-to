@@ -1,0 +1,543 @@
+SongData{
+    artist: ''
+    title: 'A Cruel Angel's Thesis [Neon Genesis Evangelion]'
+    url: 'https://www.youtube.com/watch?v=nU21rCWkuJw'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=nU21rCWkuJw
+[youtube] nU21rCWkuJw: Downloading webpage
+[youtube] nU21rCWkuJw: Downloading ios player API JSON
+[youtube] nU21rCWkuJw: Downloading android player API JSON
+ERROR: [youtube] nU21rCWkuJw: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+
+SongData{
+    artist: ''
+    title: 'Aoi Shiori [Anohana]'
+    url: 'https://www.youtube.com/watch?v=o1JrFtycErY'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=o1JrFtycErY
+[youtube] o1JrFtycErY: Downloading webpage
+[youtube] o1JrFtycErY: Downloading ios player API JSON
+[youtube] o1JrFtycErY: Downloading android player API JSON
+ERROR: [youtube] o1JrFtycErY: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment (Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Core Pride [Blue Exorcist]'
+    url: 'https://www.youtube.com/watch?v=80-W822k6Vw'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=80-W822k6Vw
+[youtube] 80-W822k6Vw: Downloading webpage
+[youtube] 80-W822k6Vw: Downloading ios player API JSON
+[youtube] 80-W822k6Vw: Downloading android player API JSON
+ERROR: [youtube] 80-W822k6Vw: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment (Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'In my World [Blue Exorcist]'
+    url: 'https://www.youtube.com/watch?v=IBG6WHUNkj4'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IBG6WHUNkj4
+[youtube] IBG6WHUNkj4: Downloading webpage
+[youtube] IBG6WHUNkj4: Downloading ios player API JSON
+[youtube] IBG6WHUNkj4: Downloading android player API JSON
+ERROR: [youtube] IBG6WHUNkj4: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment (Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Complication [Durarara!!]'
+    url: 'https://www.youtube.com/watch?v=PGoHzoZ2OI0'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PGoHzoZ2OI0
+[youtube] PGoHzoZ2OI0: Downloading webpage
+[youtube] PGoHzoZ2OI0: Downloading ios player API JSON
+[youtube] PGoHzoZ2OI0: Downloading android player API JSON
+ERROR: [youtube] PGoHzoZ2OI0: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment (Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Torch of Liberty [Fire Force Season 2]'
+    url: 'https://www.youtube.com/watch?v=RWLVwB7I48E'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RWLVwB7I48E
+[youtube] RWLVwB7I48E: Downloading webpage
+[youtube] RWLVwB7I48E: Downloading ios player API JSON
+[youtube] RWLVwB7I48E: Downloading android player API JSON
+ERROR: [youtube] RWLVwB7I48E: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+
+SongData{
+    artist: ''
+    title: 'Eiyuu Unmei no Uta [Fate Apocrypha]'
+    url: 'https://www.youtube.com/watch?v=3nLH06ftkL0'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3nLH06ftkL0
+[youtube] 3nLH06ftkL0: Downloading webpage
+[youtube] 3nLH06ftkL0: Downloading ios player API JSON
+[youtube] 3nLH06ftkL0: Downloading android player API JSON
+WARNING: [youtube] YouTube said: ERROR - Precondition check failed.
+WARNING: [youtube] HTTP Error 400: Bad Request. Retrying (1/3)...
+[youtube] 3nLH06ftkL0: Downloading android player API JSON
+ERROR: [youtube] 3nLH06ftkL0: Video unavailable. This video is no longer available due to a copyright claim by Sony Music - MCN
+
+SongData{
+    artist: ''
+    title: 'Ash [Fate Apocrypha]'
+    url: 'https://www.youtube.com/watch?v=DF38s43Qywc'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=DF38s43Qywc
+[youtube] DF38s43Qywc: Downloading webpage
+[youtube] DF38s43Qywc: Downloading ios player API JSON
+[youtube] DF38s43Qywc: Downloading android player API JSON
+ERROR: [youtube] DF38s43Qywc: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment(Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Straight Jet [Infinite Stratos]'
+    url: 'https://www.youtube.com/watch?v=ITHQca2MD5k'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ITHQca2MD5k
+[youtube] ITHQca2MD5k: Downloading webpage
+[youtube] ITHQca2MD5k: Downloading ios player API JSON
+[youtube] ITHQca2MD5k: Downloading android player API JSON
+ERROR: [youtube] ITHQca2MD5k: Video unavailable. This video is no longer available due to a copyright claim by TOKYO BROADCASTING SYSTEM, INC.
+
+SongData{
+    artist: ''
+    title: 'DeCIDE [How Not to Summon a Demon Lord]'
+    url: 'https://www.youtube.com/watch?v=aKgpEHl8lNc'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=aKgpEHl8lNc
+[youtube] aKgpEHl8lNc: Downloading webpage
+[youtube] aKgpEHl8lNc: Downloading ios player API JSON
+[youtube] aKgpEHl8lNc: Downloading android player API JSON
+WARNING: [youtube] YouTube said: ERROR - Precondition check failed.
+WARNING: [youtube] HTTP Error 400: Bad Request. Retrying (1/3)...
+[youtube] aKgpEHl8lNc: Downloading android player API JSON
+ERROR: [youtube] aKgpEHl8lNc: Video unavailable. This video is no longer available due to a copyright claim by TOKYO BROADCASTING SYSTEM, INC.
+
+SongData{
+    artist: ''
+    title: 'Cagayake! GIRLS [K-On!]'
+    url: 'https://www.youtube.com/watch?v=bwpK5QJu6K4'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=bwpK5QJu6K4
+[youtube] bwpK5QJu6K4: Downloading webpage
+[youtube] bwpK5QJu6K4: Downloading ios player API JSON
+[youtube] bwpK5QJu6K4: Downloading android player API JSON
+WARNING: [youtube] YouTube said: ERROR - Precondition check failed.
+WARNING: [youtube] HTTP Error 400: Bad Request. Retrying (1/3)...
+[youtube] bwpK5QJu6K4: Downloading android player API JSON
+ERROR: [youtube] bwpK5QJu6K4: Video unavailable. This video is no longer available due to a copyright claim by TOKYO BROADCASTING SYSTEM, INC.
+
+SongData{
+    artist: ''
+    title: 'Go! Go! Maniac [K-On!!]'
+    url: 'https://www.youtube.com/watch?v=plAY6-JX7hc'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=plAY6-JX7hc
+[youtube] plAY6-JX7hc: Downloading webpage
+[youtube] plAY6-JX7hc: Downloading ios player API JSON
+[youtube] plAY6-JX7hc: Downloading android player API JSON
+ERROR: [youtube] plAY6-JX7hc: Video unavailable. This video is no longer available due to a copyright claim by TOKYO BROADCASTING SYSTEM, INC.
+
+SongData{
+    artist: ''
+    title: 'Utauyo!! MIRACLE [K-On!!]'
+    url: 'https://www.youtube.com/watch?v=B7A9j2GT_5g'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=B7A9j2GT_5g
+[youtube] B7A9j2GT_5g: Downloading webpage
+[youtube] B7A9j2GT_5g: Downloading ios player API JSON
+[youtube] B7A9j2GT_5g: Downloading android player API JSON
+ERROR: [youtube] B7A9j2GT_5g: Video unavailable. This video is no longer available due to a copyright claim by TOKYO BROADCASTING SYSTEM, INC.
+
+SongData{
+    artist: ''
+    title: 'Love Dramatic [Kaguya sama: Love is War]'
+    url: 'https://www.youtube.com/watch?v=NcJvsczntO0'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NcJvsczntO0
+[youtube] NcJvsczntO0: Downloading webpage
+[youtube] NcJvsczntO0: Downloading ios player API JSON
+[youtube] NcJvsczntO0: Downloading android player API JSON
+ERROR: [youtube] NcJvsczntO0: Video unavailable
+
+SongData{
+    artist: ''
+    title: 'Zankoku na Yume to Nemure [Redo of Healer]'
+    url: 'https://www.youtube.com/watch?v=rbXAjYNr6Ac'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rbXAjYNr6Ac
+[youtube] rbXAjYNr6Ac: Downloading webpage
+[youtube] rbXAjYNr6Ac: Downloading ios player API JSON
+[youtube] rbXAjYNr6Ac: Downloading android player API JSON
+ERROR: [youtube] rbXAjYNr6Ac: Video unavailable
+
+SongData{
+    artist: ''
+    title: 'Gurenge [Demon slayer]'
+    url: 'https://www.youtube.com/watch?v=jiJu4K2jems'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jiJu4K2jems
+[youtube] jiJu4K2jems: Downloading webpage
+[youtube] jiJu4K2jems: Downloading ios player API JSON
+[youtube] jiJu4K2jems: Downloading android player API JSON
+ERROR: [youtube] jiJu4K2jems: Video unavailable. This video contains content from Aniplex Inc., who has blocked it on copyright grounds
+
+SongData{
+    artist: ''
+    title: 'Akeboshi [Demon Slayer: Mugen Train Arc]'
+    url: 'https://www.youtube.com/watch?v=8-K2Xo1EEkE'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=8-K2Xo1EEkE
+[youtube] 8-K2Xo1EEkE: Downloading webpage
+[youtube] 8-K2Xo1EEkE: Downloading ios player API JSON
+[youtube] 8-K2Xo1EEkE: Downloading android player API JSON
+ERROR: [youtube] 8-K2Xo1EEkE: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment (Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Zankyou Zanka [Demon Slayer: Entertainment District Arc]'
+    url: 'https://www.youtube.com/watch?v=9YncCMYoNyc'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9YncCMYoNyc
+[youtube] 9YncCMYoNyc: Downloading webpage
+[youtube] 9YncCMYoNyc: Downloading ios player API JSON
+[youtube] 9YncCMYoNyc: Downloading android player API JSON
+ERROR: [youtube] 9YncCMYoNyc: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment(Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Fantastic Dreamer [Konosuba]'
+    url: 'https://www.youtube.com/watch?v=sJZvGUC5a5g'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sJZvGUC5a5g
+[youtube] sJZvGUC5a5g: Downloading webpage
+[youtube] sJZvGUC5a5g: Downloading ios player API JSON
+[youtube] sJZvGUC5a5g: Downloading android player API JSON
+ERROR: [youtube] sJZvGUC5a5g: Video unavailable. This video is no longer available due to a copyright claim by 一般社団法人日本レコード協会
+
+SongData{
+    artist: ''
+    title: 'Strike Back [Fairy Tail (2014)]'
+    url: 'https://www.youtube.com/watch?v=m6cJaI1Z_v4'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=m6cJaI1Z_v4
+[youtube] m6cJaI1Z_v4: Downloading webpage
+[youtube] m6cJaI1Z_v4: Downloading ios player API JSON
+[youtube] m6cJaI1Z_v4: Downloading android player API JSON
+WARNING: [youtube] YouTube said: ERROR - Precondition check failed.
+WARNING: [youtube] HTTP Error 400: Bad Request. Retrying (1/3)...
+[youtube] m6cJaI1Z_v4: Downloading android player API JSON
+ERROR: [youtube] m6cJaI1Z_v4: Video unavailable
+
+SongData{
+    artist: ''
+    title: 'Break Out [Fairy Tail (2014)]'
+    url: 'https://www.youtube.com/watch?v=6vfucB0hcbA'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=6vfucB0hcbA
+[youtube] 6vfucB0hcbA: Downloading webpage
+[youtube] 6vfucB0hcbA: Downloading ios player API JSON
+[youtube] 6vfucB0hcbA: Downloading android player API JSON
+ERROR: [youtube] 6vfucB0hcbA: Video unavailable. This video is no longer available due to a copyright claim by TV Tokyo Anime Rights Management
+
+SongData{
+    artist: ''
+    title: 'Mezame no Uta [Mushoku Tensei]'
+    url: 'https://www.youtube.com/watch?v=5ZzSxI2HGSs'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5ZzSxI2HGSs
+[youtube] 5ZzSxI2HGSs: Downloading webpage
+[youtube] 5ZzSxI2HGSs: Downloading ios player API JSON
+[youtube] 5ZzSxI2HGSs: Downloading android player API JSON
+ERROR: [youtube] 5ZzSxI2HGSs: Private video. Sign in if you've been granted access to this video
+
+SongData{
+    artist: ''
+    title: 'Keishou no Uta [Mushoku Tensei part 2]'
+    url: 'https://www.youtube.com/watch?v=Fr46aDV1am4'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Fr46aDV1am4
+[youtube] Fr46aDV1am4: Downloading webpage
+[youtube] Fr46aDV1am4: Downloading ios player API JSON
+[youtube] Fr46aDV1am4: Downloading android player API JSON
+WARNING: [youtube] YouTube said: ERROR - Precondition check failed.
+WARNING: [youtube] HTTP Error 400: Bad Request. Retrying (1/3)...
+[youtube] Fr46aDV1am4: Downloading android player API JSON
+WARNING: [youtube] YouTube said: ERROR - Precondition check failed.
+WARNING: [youtube] HTTP Error 400: Bad Request. Retrying (2/3)...
+[youtube] Fr46aDV1am4: Downloading android player API JSON
+ERROR: [youtube] Fr46aDV1am4: Private video. Sign in if you've been granted access to this video
+
+SongData{
+    artist: ''
+    title: 'Inori no Uta [Mushoku Tensei part 2]'
+    url: 'https://www.youtube.com/watch?v=A6jB63n5QCM'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=A6jB63n5QCM
+[youtube] A6jB63n5QCM: Downloading webpage
+[youtube] A6jB63n5QCM: Downloading ios player API JSON
+[youtube] A6jB63n5QCM: Downloading android player API JSON
+ERROR: [youtube] A6jB63n5QCM: Private video. Sign in if you've been granted access to this video
+
+SongData{
+    artist: ''
+    title: 'Toku no komori no uta [Mushoku Tensei part 2]'
+    url: 'https://www.youtube.com/watch?v=gJG6HX7vJcs'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gJG6HX7vJcs
+[youtube] gJG6HX7vJcs: Downloading webpage
+[youtube] gJG6HX7vJcs: Downloading ios player API JSON
+[youtube] gJG6HX7vJcs: Downloading android player API JSON
+ERROR: [youtube] gJG6HX7vJcs: Private video. Sign in if you've been granted access to this video
+
+SongData{
+    artist: ''
+    title: 'Kuusou Mesorogiwi [The Future Diary]'
+    url: 'https://www.youtube.com/watch?v=FPQ9qXb8_vk'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FPQ9qXb8_vk
+[youtube] FPQ9qXb8_vk: Downloading webpage
+[youtube] FPQ9qXb8_vk: Downloading ios player API JSON
+[youtube] FPQ9qXb8_vk: Downloading android player API JSON
+WARNING: [youtube] YouTube said: ERROR - Precondition check failed.
+WARNING: [youtube] HTTP Error 400: Bad Request. Retrying (1/3)...
+[youtube] FPQ9qXb8_vk: Downloading android player API JSON
+ERROR: [youtube] FPQ9qXb8_vk: Private video. Sign in if you've been granted access to this video
+
+SongData{
+    artist: ''
+    title: 'Howling [The Seven Deadly Sins: Revival of the Commandments]'
+    url: 'https://www.youtube.com/watch?v=oI1-CxBkJeY'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=oI1-CxBkJeY
+[youtube] oI1-CxBkJeY: Downloading webpage
+[youtube] oI1-CxBkJeY: Downloading ios player API JSON
+[youtube] oI1-CxBkJeY: Downloading android player API JSON
+ERROR: [youtube] oI1-CxBkJeY: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment (Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Click [Nisekoi]'
+    url: 'https://www.youtube.com/watch?v=nDq9-vNcmAc'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=nDq9-vNcmAc
+[youtube] nDq9-vNcmAc: Downloading webpage
+[youtube] nDq9-vNcmAc: Downloading ios player API JSON
+[youtube] nDq9-vNcmAc: Downloading android player API JSON
+ERROR: [youtube] nDq9-vNcmAc: Video unavailable
+
+SongData{
+    artist: ''
+    title: 'Step [Nisekoi]'
+    url: 'https://www.youtube.com/watch?v=K_XuoTpacRY'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=K_XuoTpacRY
+[youtube] K_XuoTpacRY: Downloading webpage
+[youtube] K_XuoTpacRY: Downloading ios player API JSON
+[youtube] K_XuoTpacRY: Downloading android player API JSON
+ERROR: [youtube] K_XuoTpacRY: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment(Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Rally Go Round [Nisekoi:]'
+    url: 'https://www.youtube.com/watch?v=tI0EjXQo_Oc'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tI0EjXQo_Oc
+[youtube] tI0EjXQo_Oc: Downloading webpage
+[youtube] tI0EjXQo_Oc: Downloading ios player API JSON
+[youtube] tI0EjXQo_Oc: Downloading android player API JSON
+ERROR: [youtube] tI0EjXQo_Oc: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment(Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Clattanoia [Overlord]'
+    url: 'https://www.youtube.com/watch?v=k5H5cxmZL-A'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=k5H5cxmZL-A
+[youtube] k5H5cxmZL-A: Downloading webpage
+[youtube] k5H5cxmZL-A: Downloading ios player API JSON
+[youtube] k5H5cxmZL-A: Downloading android player API JSON
+ERROR: [youtube] k5H5cxmZL-A: Video unavailable. This video is no longer available due to a copyright claim by 株式会社KADOKAWA 知的財産課
+
+SongData{
+    artist: ''
+    title: 'Kimi no Sei [Rascal Does Not Dream of Bunny Girl Senpai]'
+    url: 'https://www.youtube.com/watch?v=hL011v_heIs'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hL011v_heIs
+[youtube] hL011v_heIs: Downloading webpage
+[youtube] hL011v_heIs: Downloading ios player API JSON
+[youtube] hL011v_heIs: Downloading android player API JSON
+WARNING: [youtube] YouTube said: ERROR - Precondition check failed.
+WARNING: [youtube] HTTP Error 400: Bad Request. Retrying (1/3)...
+[youtube] hL011v_heIs: Downloading android player API JSON
+ERROR: [youtube] hL011v_heIs: Video unavailable
+
+SongData{
+    artist: ''
+    title: 'Hikaru Nara [Your Lie in April]'
+    url: 'https://www.youtube.com/watch?v=5_iuNaULT5k'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5_iuNaULT5k
+[youtube] 5_iuNaULT5k: Downloading webpage
+[youtube] 5_iuNaULT5k: Downloading ios player API JSON
+[youtube] 5_iuNaULT5k: Downloading android player API JSON
+ERROR: [youtube] 5_iuNaULT5k: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+
+SongData{
+    artist: ''
+    title: 'Nanairo Symphony [Your Lie in April]'
+    url: 'https://www.youtube.com/watch?v=fWRaQ_S48R0'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=fWRaQ_S48R0
+[youtube] fWRaQ_S48R0: Downloading webpage
+[youtube] fWRaQ_S48R0: Downloading ios player API JSON
+[youtube] fWRaQ_S48R0: Downloading android player API JSON
+WARNING: [youtube] YouTube said: ERROR - Precondition check failed.
+WARNING: [youtube] HTTP Error 400: Bad Request. Retrying (1/3)...
+[youtube] fWRaQ_S48R0: Downloading android player API JSON
+ERROR: [youtube] fWRaQ_S48R0: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment(Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Crossing Field [Sword Art Online]'
+    url: 'https://www.youtube.com/watch?v=vI8W_XYT29Q'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vI8W_XYT29Q
+[youtube] vI8W_XYT29Q: Downloading webpage
+[youtube] vI8W_XYT29Q: Downloading ios player API JSON
+[youtube] vI8W_XYT29Q: Downloading android player API JSON
+ERROR: [youtube] vI8W_XYT29Q: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment(Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Innocence [Sword Art Online]'
+    url: 'https://www.youtube.com/watch?v=O8T2u83GIiI'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=O8T2u83GIiI
+[youtube] O8T2u83GIiI: Downloading webpage
+[youtube] O8T2u83GIiI: Downloading ios player API JSON
+[youtube] O8T2u83GIiI: Downloading android player API JSON
+ERROR: [youtube] O8T2u83GIiI: Video unavailable. This video contains content from Aniplex Inc., who has blocked it on copyright grounds
+
+SongData{
+    artist: ''
+    title: 'Ignite [Sword Art Online II]'
+    url: 'https://www.youtube.com/watch?v=frw21EeOrV0'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=frw21EeOrV0
+[youtube] frw21EeOrV0: Downloading webpage
+[youtube] frw21EeOrV0: Downloading ios player API JSON
+[youtube] frw21EeOrV0: Downloading android player API JSON
+ERROR: [youtube] frw21EeOrV0: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment(Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Courage [Sword Art Online II]'
+    url: 'https://www.youtube.com/watch?v=3n569HxD2Rk'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3n569HxD2Rk
+[youtube] 3n569HxD2Rk: Downloading webpage
+[youtube] 3n569HxD2Rk: Downloading ios player API JSON
+[youtube] 3n569HxD2Rk: Downloading android player API JSON
+ERROR: [youtube] 3n569HxD2Rk: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment (Japan) Inc.
+
+SongData{
+    artist: ''
+    title: 'Resister [Sword Art Online: Alicization]'
+    url: 'https://www.youtube.com/watch?v=uEO_D0Cz2R8'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=uEO_D0Cz2R8
+[youtube] uEO_D0Cz2R8: Downloading webpage
+[youtube] uEO_D0Cz2R8: Downloading ios player API JSON
+[youtube] uEO_D0Cz2R8: Downloading android player API JSON
+ERROR: [youtube] uEO_D0Cz2R8: Video unavailable
+
+SongData{
+    artist: ''
+    title: 'Faith [The Rising of the Shield Hero]'
+    url: 'https://www.youtube.com/watch?v=9wtlzZG0_Bg'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9wtlzZG0_Bg
+[youtube] 9wtlzZG0_Bg: Downloading webpage
+[youtube] 9wtlzZG0_Bg: Downloading ios player API JSON
+[youtube] 9wtlzZG0_Bg: Downloading android player API JSON
+ERROR: [youtube] 9wtlzZG0_Bg: Video unavailable. This video is no longer available due to a copyright claim by Nippon Columbia Co., Ltd.
+
+SongData{
+    artist: ''
+    title: 'Sister's noise [A Certain Scientific Railgun S]'
+    url: 'https://www.youtube.com/watch?v=R3shsgKbd_M'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=R3shsgKbd_M
+[youtube] R3shsgKbd_M: Downloading webpage
+[youtube] R3shsgKbd_M: Downloading ios player API JSON
+[youtube] R3shsgKbd_M: Downloading android player API JSON
+ERROR: [youtube] R3shsgKbd_M: Video unavailable. This video contains content from KADOKAWA CORPORATION, who has blocked it on copyright grounds
+
+SongData{
+    artist: ''
+    title: 'Eternal Reality [A Certain Scientific Railgun S]'
+    url: 'https://www.youtube.com/watch?v=VNotN0dDMLc'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=VNotN0dDMLc
+[youtube] VNotN0dDMLc: Downloading webpage
+[youtube] VNotN0dDMLc: Downloading ios player API JSON
+[youtube] VNotN0dDMLc: Downloading android player API JSON
+ERROR: [youtube] VNotN0dDMLc: Video unavailable. This video contains content from KADOKAWA CORPORATION, who has blocked it on copyright grounds
+
+SongData{
+    artist: ''
+    title: 'Monochrome no Kiss [Black Butler]'
+    url: 'https://www.youtube.com/watch?v=Nfs1BWgHcnA'
+    status: error
+}
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Nfs1BWgHcnA
+[youtube] Nfs1BWgHcnA: Downloading webpage
+[youtube] Nfs1BWgHcnA: Downloading ios player API JSON
+[youtube] Nfs1BWgHcnA: Downloading android player API JSON
+ERROR: [youtube] Nfs1BWgHcnA: Video unavailable. This video is no longer available due to a copyright claim by Sony Music Entertainment (Japan) Inc.
+

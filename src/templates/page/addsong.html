@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>V is the new V</title>
+    @css 'templates/page/home.css'
+  </head>
+  <body>
+    <h1 class="title">Control</h1>
+    <button id="run-jobs">Run jobs</button>
+    <h1 class="title">Add song</h1>
+    <form action="/add-song" method="post" enctype="multipart/form-data">
+        <label for="artist">Artist: </label><input type="text" name="artist"><br>
+        <label for="song-title">Title: </label><input type="text" name="song-title"><br>
+        <label for="song-url">Url: </label><input type="text" name="song-url"><br>
+        <input type="submit">
+    </form>
+
+    @for song in song_list
+    <div>@include 'song-component.html'</div>
+    @end
+
+    @js 'templates/page/home.js'
+    
+  </body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>${page_title}</title>
+    @css 'templates/page/home.css'
+  </head>
+  <body>
+    <h1 class="title">Hello, Vs.</h1>
+    <a href="/add-song">Add a song</a><br>
+
+    @for song in song_list
+    <div>@include 'song-component.html'</div>
+    @end
+
+    @js 'templates/page/home.js'
+    
+  </body>
+</html>
