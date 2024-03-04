@@ -1,10 +1,9 @@
 import os
-import json
 
 
 pub fn download_audio(song SongData)! {
-	//output := os.execute('yt-dlp -f "ba" -x --audio-format mp3 -o "songs/${song.title} by ${song.artist}" ${song.url}')
-	output := os.execute('echo "songs/${song.title} by ${song.artist}"')
+	output := os.execute('yt-dlp -f "ba" -x --audio-format mp3 -o "songs/${song.title} by ${song.artist}" ${song.url}')
+	//output := os.execute('echo "songs/${song.title} by ${song.artist}"')
 	if output.exit_code == 0 {
 		println('Success: ${output.output}')
 		return
@@ -12,8 +11,13 @@ pub fn download_audio(song SongData)! {
 	return error('${output.output}')
 }
 
-pub fn download_all(mut song_list []SongData, mut logfile &os.File)! {
+pub fn (mut app App) download_all(mut song_list []SongData, mut logfile &os.File)! {
 	for mut song in song_list {
+		// to be removed when file is updated.
+		if song.artist.len == 0{
+			return
+		}
+		//
 		if song.status != .present {
 			download_audio(song) or {
 				logfile.writeln('${song}\n${err.str()}')!
@@ -23,13 +27,12 @@ pub fn download_all(mut song_list []SongData, mut logfile &os.File)! {
 			song.status = .present
 		}
 	}
-	os.write_file('./songs.json', json.encode_pretty(song_list)) or {
-		logfile.writeln('Cannot write to songs.json')!
-		return err
+	lock app.song_list {
+		app.song_list = song_list.clone()
 	}
 }
 
-pub fn process_jobs(){
+pub fn (mut app App) process_jobs(){
 	mut logfile := os.open_append('download.log') or {
 		eprintln('Cannot not open log file.')
 		return
@@ -37,14 +40,12 @@ pub fn process_jobs(){
 	defer {
 		logfile.close()
 	}
-	mut song_list := json.decode([]SongData, os.read_file('songs.json') or {
-		eprintln('Cannot read from songs.json')
-		return
-	}) or {
-		eprintln('Cannot parse songs.json')
-		return
+
+	mut song_list := []SongData{}
+	rlock app.song_list {
+		song_list = app.song_list.clone()
 	}
-	download_all(mut song_list, mut logfile) or {
+	app.download_all(mut song_list, mut logfile) or {
 		eprintln(err)
 		return
 	}

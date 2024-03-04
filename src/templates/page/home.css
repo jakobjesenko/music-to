@@ -1,4 +1,19 @@
 h1.title {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #3b7bbf;
-  }
+	font-family: Arial, Helvetica, sans-serif;
+	color: #3b7bbf;
+}
+
+.song-container, .song-container-present {
+	background-color: aliceblue;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin-top: 1rem;
+}
+
+.song-container-error {
+	background-color: lightpink;
+}
+
+.song-container-missing {
+	background-color: lemonchiffon;
+}

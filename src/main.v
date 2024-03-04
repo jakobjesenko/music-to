@@ -18,6 +18,7 @@ enum SongStatus {
 
 pub struct SongData {
 mut:
+	id int
 	artist string
 	title string
 	url string
@@ -25,6 +26,9 @@ mut:
 }
 
 fn main() {
+	os.rm('./download.log') or {
+		eprintln('Cannot remove downlaod.log')
+	}
 	vweb.run_at(new_app(), vweb.RunParams{
 		port: 8081
 	}) or { panic(err) }
@@ -68,7 +72,6 @@ pub fn (mut app App) page_addsong() vweb.Result {
 			url: app.form['song-url']
 			status: .missing
 		}
-		println(temp)
 		lock app.song_list {
 			app.song_list << temp
 		}
@@ -79,14 +82,7 @@ pub fn (mut app App) page_addsong() vweb.Result {
 
 @['/run-jobs'; post]
 pub fn (mut app App) run_jobs() vweb.Result {
-	lock app.song_list {
-		temp := app.song_list.clone()
-		os.write_file('./songs.json', json.encode_pretty(temp)) or { 
-			app.set_status(500, '')
-			return app.text('NOK')
-		}
-	}
-	process_jobs()
+	app.process_jobs()
 	return app.text('OK')
 }
 
