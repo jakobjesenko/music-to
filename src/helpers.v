@@ -1,4 +1,5 @@
 import os
+import regex
 
 
 pub fn download_audio(song SongData)! {
@@ -30,6 +31,33 @@ pub fn (mut app App) download_all(mut song_list []SongData, mut logfile &os.File
 	lock app.song_list {
 		app.song_list = song_list.clone()
 	}
+}
+
+pub fn get_volume(filename string) !f32 {
+	output := os.execute('ffmpeg -i "${filename}" -hide_banner -af volumedetect -f null /dev/null')
+	mut re := regex.regex_opt(r'.*mean_volume: (-?\d+\.?\d*).*') or { return error('Cannot create regex') }
+	re.match_string(output.output)
+	if re.groups.len < 2 {
+		return error('Cannot read volume of file: ${filename}')
+	}
+	out := output.output[re.groups[0]..re.groups[1]].f32()
+	if out != 0 {
+		return out
+	} else {
+		return error('Cannot read volume of file: ${filename}')
+	}
+
+}
+
+pub fn normalize_file(filename string, target f32)! {
+	volume := get_volume(filename)!
+	if target - 1 < volume && volume < target + 1 {
+		return
+	}
+	factor := target - volume
+	os.mv(filename, filename.replace('.mp3', '.tmp'))!
+	os.execute('ffmpeg -i "${filename.replace('.mp3', '.tmp')}" -filter:a volume=${factor}dB -y "${filename}"')
+	os.rm(filename.replace('.mp3', '.tmp'))!
 }
 
 pub fn (mut app App) process_jobs(){

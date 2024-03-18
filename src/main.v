@@ -58,11 +58,6 @@ pub fn (mut app App) page_home() vweb.Result {
 	return $vweb.html()
 }
 
-/* @['/add-song']
-pub fn (mut app App) page_addsong() vweb.Result {
-	return $vweb.html()
-} */
-
 @['/add-song'; post; get]
 pub fn (mut app App) page_addsong() vweb.Result {
 	if app.req.method == .post{
@@ -90,7 +85,10 @@ pub fn (mut app App) run_jobs() vweb.Result {
 pub fn (mut app App) page_writelist() vweb.Result {
 	lock app.song_list {
 		temp := app.song_list.clone()
-		os.write_file('./songs.json', json.encode_pretty(temp)) or { return $vweb.html() }
+		os.write_file('./songs.json', json.encode_pretty(temp)) or { 
+			app.set_status(500, 'Writing the list failed.')
+			app.text('Write Failed')
+		}
 	}
-	return $vweb.html()
+	return app.text('Write Successful')
 }
