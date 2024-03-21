@@ -3,1229 +3,1235 @@
 		"artist":	"Ichiko",
 		"title":	"Koi no Mahou [Maburaho]",
 		"url":	"https://www.youtube.com/watch?v=apU1mro9xUo",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	1,
 		"artist":	"Tsukikage",
 		"title":	"Spatto! Spy & Spyce [Release the Spyce]",
-		"url":	"https://www.youtube.com/watch?v=8KO-beK-48s",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=APyJ1kaxN8g",
+		"status":	"adjusted"
 	}, {
 		"id":	2,
 		"artist":	"Nakanoke no Itsuzugo",
 		"title":	"Gotoubun no Kimochi [5-toubun no Hanayome]",
 		"url":	"https://www.youtube.com/watch?v=tF04aIba5p8",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	3,
 		"artist":	"Shoko Nakagawa",
 		"title":	"Sorairo Days [Tengen Toppa Gurren Lagann]",
 		"url":	"https://www.youtube.com/watch?v=5EXFilTUiko",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	4,
 		"artist":	"GARNiDELiA",
 		"title":	"Ambiguous [Kill la Kill]",
 		"url":	"https://www.youtube.com/watch?v=Z6BF_5p4jMY",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	5,
 		"artist":	"Eir Aoi",
 		"title":	"Sirius [Kill la Kill]",
 		"url":	"https://www.youtube.com/watch?v=k62_N6O2esw",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	6,
 		"artist":	"Mili",
 		"title":	"Rightfully [Goblin Slayer]",
 		"url":	"https://www.youtube.com/watch?v=7z4WJAEG3u8",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	7,
 		"artist":	"Yoko Takahashi",
 		"title":	"A Cruel Angel's Thesis [Neon Genesis Evangelion]",
 		"url":	"https://www.youtube.com/watch?v=o6wtDPVkKqI",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	8,
 		"artist":	"L'Arc~en~Ciel",
 		"title":	"Driver's High [Great Teacher Onizuka]",
 		"url":	"https://www.youtube.com/watch?v=phAoChN1nC4",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	9,
 		"artist":	"Porno Graffitti",
 		"title":	"Hitori no Yoru [Great Teacher Onizuka]",
 		"url":	"https://www.youtube.com/watch?v=xpAg0spgFJA",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	10,
 		"artist":	"Hyadain",
 		"title":	"Hyadain no Kakakata Kataomoi [Nichijou]",
 		"url":	"https://www.youtube.com/watch?v=qUk1ZoCGqsA",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	11,
 		"artist":	"Hyadain",
 		"title":	"Hyadain no Joujou Yuujou [Nichijou]",
 		"url":	"https://www.youtube.com/watch?v=LB7kQN6uNok",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	12,
 		"artist":	"Nakanoke no Itsuzugo",
 		"title":	"Gotobun no Katachi [The Quintessential Quintuplets 2]",
 		"url":	"https://www.youtube.com/watch?v=2oQSUoGhEBg",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	13,
 		"artist":	"May'n",
 		"title":	"Chase the World [Accel World]",
 		"url":	"https://www.youtube.com/watch?v=uTErr5pGmZc",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	14,
 		"artist":	"ALTIMA",
 		"title":	"Burst the Gravity [Accel World]",
 		"url":	"https://www.youtube.com/watch?v=IGRAfhYEYKM",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	15,
 		"artist":	"Sora Amamiya",
 		"title":	"Skyreach [Akame Ga Kill]",
 		"url":	"https://www.youtube.com/watch?v=vqshxf8WiHE",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	16,
 		"artist":	"Rika Mayama",
 		"title":	"Liar Mask [Akame Ga kill]",
 		"url":	"https://www.youtube.com/watch?v=PRvv-vL0i50",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	17,
 		"artist":	"Lia, Lisa",
 		"title":	"Angel Beats! [Angel Beats]",
 		"url":	"https://www.youtube.com/watch?v=zIFV8UUs1-c",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	18,
 		"artist":	"Galileo Galilei",
 		"title":	"Circle Game [Anohana]",
 		"url":	"https://www.youtube.com/watch?v=nRicK0Tzjeg",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	19,
 		"artist":	"Galileo Galilei",
 		"title":	"Aoi Shiori [Anohana]",
 		"url":	"https://www.youtube.com/watch?v=T3bxbVGWy5k",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	20,
 		"artist":	"UVERworld",
 		"title":	"Core Pride [Blue Exorcist]",
 		"url":	"https://www.youtube.com/watch?v=Avs-yTQ53cI",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	21,
 		"artist":	"Rookiez Is Punk'd",
 		"title":	"In my World [Blue Exorcist]",
 		"url":	"https://www.youtube.com/watch?v=j-5F1QjPAkI",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	22,
 		"artist":	"Oranges & Lemons",
 		"title":	"Soramimi Cake [Azumanga Daioh]",
 		"url":	"https://www.youtube.com/watch?v=bsGAsJBW6zM",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	23,
 		"artist":	"Chiwa Saito",
 		"title":	"Staple Staple [Bakemonogatari]",
 		"url":	"https://www.youtube.com/watch?v=CXDUXjsU5ao",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	24,
 		"artist":	"Emiri Katou",
 		"title":	"Kaerimichi [Bakemonogatari]",
 		"url":	"https://www.youtube.com/watch?v=M2hWLKfuZKE",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	25,
 		"artist":	"Miyuki Sawashiro",
 		"title":	"Ambivalent World [Bakemonogatari]",
 		"url":	"https://www.youtube.com/watch?v=wj1Xnv1YvHY",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	26,
 		"artist":	"Kana Hanazawa",
 		"title":	"Ren'ai Circulation [Bakemonogatari]",
 		"url":	"https://www.youtube.com/watch?v=F8xpmTmdf6o",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	27,
 		"artist":	"Yui Horie",
 		"title":	"Sugar Sweet Nightmare [Bakemonogatari]",
 		"url":	"https://www.youtube.com/watch?v=BAchFngRQeA",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	28,
 		"artist":	"MELL",
 		"title":	"Red Fraction [Black Lagoon]",
 		"url":	"https://www.youtube.com/watch?v=pp5hkWjk4nQ",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	29,
 		"artist":	"The Seatbelts",
 		"title":	"Tank! [Cowboy Bebop]",
 		"url":	"https://www.youtube.com/watch?v=n2rVnRwW0h8",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	30,
 		"artist":	"Mika Nakashima x Hyde",
 		"title":	"Kiss of Death [Darling in the FranXX]",
 		"url":	"https://www.youtube.com/watch?v=mzJqxT1UGho",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	31,
 		"artist":	"Bradio",
 		"title":	"Flyers [Death Parade]",
 		"url":	"https://www.youtube.com/watch?v=9wh8FgsEtNQ",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	32,
 		"artist":	"Minimi",
 		"title":	"Crying for Rain [Domestic Girlfriend]",
 		"url":	"https://www.youtube.com/watch?v=0YF8vecQWYs",
-		"status":	"present"
+		"status":	"adjusted"
 	}, {
 		"id":	33,
 		"artist":	"BURNOUT SYNDROMES",
 		"title":	"Good Morning World! [Dr. Stone]",
 		"url":	"https://www.youtube.com/watch?v=tF4faMbs5oQ",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	34,
 		"artist":	"PELICAN FANCLUB",
 		"title":	"Sangenshoku [Dr. Stone]",
 		"url":	"https://www.youtube.com/watch?v=SohCAjC-Npk",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	35,
 		"artist":	"Fujifabric",
-		"title":	"Rakuen [Dr. Stone: Stone Wars]",
+		"title":	"Rakuen [Dr. Stone - Stone Wars]",
 		"url":	"https://www.youtube.com/watch?v=34wlhlQpidc",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	36,
 		"artist":	"Ai Fairuz & Kaito Ishikawa",
-		"title":	"Onegai Muscle [How Heavy are the Dumbbells you Lift?]",
+		"title":	"Onegai Muscle [How Heavy are the Dumbbells you Lift]",
 		"url":	"https://www.youtube.com/watch?v=Ayi2CJU2xmQ",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	37,
 		"artist":	"Theatre Brook",
 		"title":	"Sunset of Betrayal [Durarara!!]",
 		"url":	"https://www.youtube.com/watch?v=sk3ZJslK2ks",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	38,
 		"artist":	"ROOKiEZ is PUNK'D",
 		"title":	"Complication [Durarara!!]",
-		"url":	"https://www.youtube.com/watch?v=PGoHzoZ2OI0",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=HkQ_mzbC_WY",
+		"status":	"adjusted"
 	}, {
 		"id":	39,
 		"artist":	"OKAMOTO'S",
 		"title":	"Headhunt [Durarara!!x2 Shou]",
 		"url":	"https://www.youtube.com/watch?v=t7wv4InYAl8",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	40,
 		"artist":	"Toshiyuki Toyonaga",
 		"title":	"Day you Laugh [Durarara!!x2 Ten]",
 		"url":	"https://www.youtube.com/watch?v=S5pi8L81YFI",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	41,
 		"artist":	"FLOW",
 		"title":	"Steppin' Out [Durarara!!x2 Ketsu]",
 		"url":	"https://www.youtube.com/watch?v=DPtFrCODF2I",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	42,
 		"artist":	"Mrs.GREEN APPLE",
 		"title":	"Inferno [Fire Force]",
 		"url":	"https://www.youtube.com/watch?v=wfCcs0vLysk",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	43,
 		"artist":	"coldrain",
 		"title":	"Mayday [Fire Force]",
 		"url":	"https://www.youtube.com/watch?v=t0WClcc-aVs",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	44,
 		"artist":	"Aimer",
 		"title":	"Spark Again [Fire Force Season 2]",
 		"url":	"https://www.youtube.com/watch?v=xLGtT8WuidM",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	45,
 		"artist":	"KANA-BOON",
 		"title":	"Torch of Liberty [Fire Force Season 2]",
-		"url":	"https://www.youtube.com/watch?v=RWLVwB7I48E",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=1_cmNWF5NQw",
+		"status":	"adjusted"
 	}, {
 		"id":	46,
 		"artist":	"EGOIST",
 		"title":	"Eiyuu Unmei no Uta [Fate Apocrypha]",
-		"url":	"https://www.youtube.com/watch?v=3nLH06ftkL0",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=hC8q3fHozco",
+		"status":	"adjusted"
 	}, {
 		"id":	47,
 		"artist":	"LiSA",
 		"title":	"Ash [Fate Apocrypha]",
-		"url":	"https://www.youtube.com/watch?v=DF38s43Qywc",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=pWp-3wHIXto",
+		"status":	"adjusted"
 	}, {
 		"id":	48,
 		"artist":	"Tainaka Sachi",
 		"title":	"Disillusion [Fate Stay Night]",
 		"url":	"https://www.youtube.com/watch?v=Qy7Q77ZD_ME",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	49,
 		"artist":	"Tainaka Sachi",
 		"title":	"Kirameku Namida wa Hoshi ni [Fate Stay Night]",
 		"url":	"https://www.youtube.com/watch?v=wYTUYpAlZtw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	50,
 		"artist":	"LiSA",
 		"title":	"Oath Sign [Fate Zero]",
 		"url":	"https://www.youtube.com/watch?v=aK2-jBqwEWU",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	51,
 		"artist":	"Porno Graffitti",
 		"title":	"Melissa [Fullmetal Alchemist]",
 		"url":	"https://www.youtube.com/watch?v=uMsOlhzPEfY&t=4s",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	52,
 		"artist":	"L'Arc~en~Ciel",
 		"title":	"Ready Steady Go [Fullmetal Alchemist]",
 		"url":	"https://www.youtube.com/watch?v=Z8Su678ZVQs",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	53,
 		"artist":	"Cool Joke",
 		"title":	"Undo [Fullmetal Alchemist]",
 		"url":	"https://www.youtube.com/watch?v=SBbGJ_8JPhU",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	54,
 		"artist":	"Asian Kung-fu Generation",
 		"title":	"Rewrite [Fullmetal Alchemist]",
 		"url":	"https://www.youtube.com/watch?v=oPg1J79sgkQ",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	55,
 		"artist":	"VAs",
 		"title":	"Gabriel Drop Kick [Gabriel DropOut]",
 		"url":	"https://www.youtube.com/watch?v=e0oitN2clAw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	56,
 		"artist":	"Masayoshi Ooishi",
 		"title":	"Kimi ja Nakya Dame Mitai [Gekkan Shoujo Nozaki kun]",
 		"url":	"https://www.youtube.com/watch?v=i1qrQWyuM3U",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	57,
 		"artist":	"Yutaka Yamada",
 		"title":	"G P [Great Pretender]",
 		"url":	"https://www.youtube.com/watch?v=Yjv_yFgHYc0",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	58,
 		"artist":	"supercell",
 		"title":	"My Dearest [Guilty Crown]",
 		"url":	"https://www.youtube.com/watch?v=WrcL2TBbI5k",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	59,
 		"artist":	"EGOIST",
 		"title":	"The Everlasting Guilty Crown [Guilty Crown]",
 		"url":	"https://www.youtube.com/watch?v=-p0IjnBhG10",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	60,
 		"artist":	"Kishida Kyoudan & The Akeboshi Rockets",
 		"title":	"Highschool of the Dead [Highschool of the Dead]",
 		"url":	"https://www.youtube.com/watch?v=TQwQMeb-44g",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	61,
 		"artist":	"Sumire Uesaka",
 		"title":	"Easy Love [Don't Toy with Me, Miss Nagatoro]",
 		"url":	"https://www.youtube.com/watch?v=x-AHnwQPf9s",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	62,
 		"artist":	"Minami Kuribayashi",
 		"title":	"Straight Jet [Infinite Stratos]",
-		"url":	"https://www.youtube.com/watch?v=ITHQca2MD5k",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=2oK45vJ3Jq4",
+		"status":	"adjusted"
 	}, {
 		"id":	63,
 		"artist":	"SUMMONERS 2+",
 		"title":	"DeCIDE [How Not to Summon a Demon Lord]",
-		"url":	"https://www.youtube.com/watch?v=aKgpEHl8lNc",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=YoSQdTWo-zE",
+		"status":	"adjusted"
 	}, {
 		"id":	64,
 		"artist":	"Yuu Serizawa with DJ KOO & MOTSU",
 		"title":	"Everybodey! Everybodey! [How Not to Summon a Demon Lord 2]",
 		"url":	"https://www.youtube.com/watch?v=AU0mHZFX0fA",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	65,
 		"artist":	"VAs",
 		"title":	"Isekai Quartet [Isekai Quartet]",
 		"url":	"https://www.youtube.com/watch?v=KH6fAUWkg3Q",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	66,
 		"artist":	"VAs",
 		"title":	"Isekai Showtime [Isekai Quartet 2]",
 		"url":	"https://www.youtube.com/watch?v=unmF1BGdVfY",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	67,
 		"artist":	"VAs",
 		"title":	"Ikouze Paradise [Interspecies Reviewers]",
 		"url":	"https://www.youtube.com/watch?v=RR6kzUMimSI",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	68,
 		"artist":	"Junjou no Afilia",
 		"title":	"Kyuukoku Unbalance [I Don't Want to Get Hurt, so I'll Max Out My Defense]",
 		"url":	"https://www.youtube.com/watch?v=vS8YwJ9FIrY",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	69,
 		"artist":	"Yui Ogura",
 		"title":	"Fightin Pose [The Great Jahy Will Not Be Defeated!]",
 		"url":	"https://www.youtube.com/watch?v=DVWfiVQLEhc",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	70,
 		"artist":	"Sumire Uesaka",
 		"title":	"Seikatsu Konkyuu Dame Dinero [The Great Jahy Will Not Be Defeated!]",
 		"url":	"https://www.youtube.com/watch?v=c5ow2zJh0gI",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	71,
 		"artist":	"Hiroaki TOMMY Tominaga",
 		"title":	"Sono Chi no Sadame [JoJo's Bizarre Adventure part 1]",
 		"url":	"https://www.youtube.com/watch?v=73XLX1Br9po",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	72,
 		"artist":	"Coda",
 		"title":	"Bloody Stream [JoJo's Bizarre Adventure part 2]",
 		"url":	"https://www.youtube.com/watch?v=hmpJqJLsR48",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	73,
 		"artist":	"Sakurakou Keion-bu",
 		"title":	"Cagayake! GIRLS [K-On!]",
-		"url":	"https://www.youtube.com/watch?v=bwpK5QJu6K4",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=QqaK9st80F4",
+		"status":	"adjusted"
 	}, {
 		"id":	74,
 		"artist":	"HTT (Houkago Tea Time)",
 		"title":	"Go! Go! Maniac [K-On!!]",
-		"url":	"https://www.youtube.com/watch?v=plAY6-JX7hc",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=EV-bDK_aipw",
+		"status":	"adjusted"
 	}, {
 		"id":	75,
 		"artist":	"HTT (Houkago Tea Time)",
 		"title":	"Utauyo!! MIRACLE [K-On!!]",
-		"url":	"https://www.youtube.com/watch?v=B7A9j2GT_5g",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=cRQcZ68t-_o",
+		"status":	"adjusted"
 	}, {
 		"id":	76,
 		"artist":	"Masayuki Suzuki",
-		"title":	"Love Dramatic [Kaguya sama: Love is War]",
+		"title":	"Love Dramatic [Kaguya sama - Love is War]",
 		"url":	"https://www.youtube.com/watch?v=BC4zaaiXNMI",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	77,
 		"artist":	"Minami Kuribayashi",
 		"title":	"Zankoku na Yume to Nemure [Redo of Healer]",
-		"url":	"https://www.youtube.com/watch?v=rbXAjYNr6Ac",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=5NmM8Fnsddg",
+		"status":	"adjusted"
 	}, {
 		"id":	78,
 		"artist":	"AKINO with bless4",
-		"title":	"Miiro [KanColle: Kantai Collection]",
+		"title":	"Miiro [KanColle - Kantai Collection]",
 		"url":	"https://www.youtube.com/watch?v=DmHPtZ0RpPA",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	79,
 		"artist":	"supercell",
 		"title":	"Hakushi Kassai Uta Awase [Katanagatari]",
 		"url":	"https://www.youtube.com/watch?v=9wNuMDvD6h0",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	80,
 		"artist":	"ALI PROJECT",
 		"title":	"Katana to Saya [Katanagatari]",
 		"url":	"https://www.youtube.com/watch?v=tTAto8blwF8",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	81,
 		"artist":	"LiSA",
 		"title":	"Gurenge [Demon slayer]",
 		"url":	"https://www.youtube.com/watch?v=Ph1a-k13Hsg",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	82,
 		"artist":	"LiSA",
-		"title":	"Akeboshi [Demon Slayer: Mugen Train Arc]",
+		"title":	"Akeboshi [Demon Slayer - Mugen Train Arc]",
 		"url":	"https://www.youtube.com/watch?v=N2p1K-UAtfA",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	83,
 		"artist":	"Aimer",
-		"title":	"Zankyou Sanka [Demon Slayer: Entertainment District Arc]",
+		"title":	"Zankyou Sanka [Demon Slayer - Entertainment District Arc]",
 		"url":	"https://www.youtube.com/watch?v=isFdoIq0DGc",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	84,
 		"artist":	"Fear, and Loathing in Las Vegas",
-		"title":	"Let me Hear [Parasyte: The Maxim]",
+		"title":	"Let me Hear [Parasyte - The Maxim]",
 		"url":	"https://www.youtube.com/watch?v=D-SQqppuGvc",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	85,
 		"artist":	"Machico",
 		"title":	"Fantastic Dreamer [Konosuba]",
 		"url":	"https://www.youtube.com/watch?v=uhbqicMJc5o",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	86,
 		"artist":	"Machico",
 		"title":	"Tomorrow [Konosuba 2]",
 		"url":	"https://www.youtube.com/watch?v=Cqp-dB7GVI8",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	87,
 		"artist":	"VAs",
 		"title":	"Motteke! Sailor Fuku! [Lucky Star]",
 		"url":	"https://www.youtube.com/watch?v=ieQ1rAIjzXc",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	88,
 		"artist":	"ClariS",
 		"title":	"Connect [Puella Magi Madoka Magica]",
 		"url":	"https://www.youtube.com/watch?v=ADIP3Um32Gc",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	89,
 		"artist":	"Kaori Ishihara",
 		"title":	"Tempest [Demon Lord, Retry!]",
 		"url":	"https://www.youtube.com/watch?v=_rMNE0sVQG4",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	90,
 		"artist":	"ORANGE RANGE",
 		"title":	"Asterisk [Bleach]",
 		"url":	"https://www.youtube.com/watch?v=r-MEKwXFF-s",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	91,
 		"artist":	"FUNKIST",
 		"title":	"Snow Fairy [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=SC6s6ATi90s",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	92,
 		"artist":	"Idoling!!!",
 		"title":	"Sense of Wonder [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=W0Rl8e89AlY",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	93,
 		"artist":	"FUNKIST",
 		"title":	"Ft [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=jAUETv_SMMw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	94,
 		"artist":	"Thrill Ride Pirates",
 		"title":	"Rockin' Playing Game [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=-G1MJzYXxW4",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	95,
 		"artist":	"MAGIC PARTY",
 		"title":	"Egao no Mahou [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=xtZBNl3nYUA",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	96,
 		"artist":	"+ Plus",
 		"title":	"Fiesta [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=1cw-vRvb6LY",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	97,
 		"artist":	"Daisy x Daisy",
 		"title":	"Evidence [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=TnSxc64_pr4",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	98,
 		"artist":	"JAMIL",
 		"title":	"Rock City Boy [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=zVO-VptpJtk",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	99,
 		"artist":	"Daisy x Daisy",
 		"title":	"Towa no Kizuna [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=dQlXosrxCeo",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	100,
 		"artist":	"Milky Bunny",
 		"title":	"I Wish [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=LDsiYzxyCp0",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	101,
 		"artist":	"+ Plus",
 		"title":	"Hajimari no Sora [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=V5VLaEMrFBQ",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	102,
 		"artist":	"Hero",
 		"title":	"Tenohira [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=1W3zdZniT0E",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	103,
 		"artist":	"Going Underground",
 		"title":	"Breakthrough [Fairy Tail]",
-		"url":	"https://www.youtube.com/watch?v=BdQeFLCqe7",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=417W6s7Hl3M",
+		"status":	"adjusted"
 	}, {
 		"id":	104,
 		"artist":	"Chihiro Yonekura",
 		"title":	"Yakusoku no Hi e [Fairy Tail]",
 		"url":	"https://www.youtube.com/watch?v=jQK6MWYQ81E",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	105,
 		"artist":	"BoA",
 		"title":	"Masayume Chasing [Fairy Tail (2014)]",
 		"url":	"https://www.youtube.com/watch?v=bhjBqzeIy2k",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	106,
 		"artist":	"BACK-ON",
 		"title":	"Strike Back [Fairy Tail (2014)]",
 		"url":	"https://www.youtube.com/watch?v=watQgRTHDhs",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	107,
 		"artist":	"Do As Infinity",
 		"title":	"Mysterius Magic [Fairy Tail (2014)]",
 		"url":	"https://www.youtube.com/watch?v=UGspdC7i4WQ",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	108,
 		"artist":	"V6",
 		"title":	"Break Out [Fairy Tail (2014)]",
 		"url":	"https://www.youtube.com/watch?v=6x-yIhGfiaU",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	109,
 		"artist":	"Tackey & Tsubasa",
 		"title":	"Yume-iro Graffiti [Fairy Tail (2014)]",
 		"url":	"https://www.youtube.com/watch?v=Pq_b_LK-L9U",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	110,
 		"artist":	"Tatsuyuki Kobayashi and Konomi Suzuki",
 		"title":	"Neverend Tale [Fairy Tail (2014)]",
 		"url":	"https://www.youtube.com/watch?v=YAvuEVXYolw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	111,
 		"artist":	"EDGE of LIFE",
 		"title":	"Belive in Myself [Fairy Tail (2014)]",
 		"url":	"https://www.youtube.com/watch?v=MkBVsAYUc-g",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	112,
 		"artist":	"Kavka Shishido",
 		"title":	"Ashita wo Narase [Fairy Tail (2014)]",
 		"url":	"https://www.youtube.com/watch?v=agBLQPnDFEg",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	113,
 		"artist":	"lol",
-		"title":	"Power of the Dream [Fairy Tail: Final Series]",
+		"title":	"Power of the Dream [Fairy Tail - Final Series]",
 		"url":	"https://www.youtube.com/watch?v=GZ1BKBE5mLY",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	114,
-		"artist":	"HE RAMPAGE from EXILE TRIBE",
-		"title":	"Down by Law [Fairy Tail: Final Series]",
+		"artist":	"THE RAMPAGE from EXILE TRIBE",
+		"title":	"Down by Law [Fairy Tail - Final Series]",
 		"url":	"https://www.youtube.com/watch?v=bGTnzHajLAw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	115,
 		"artist":	"Osaka Shunka Shuutou",
-		"title":	"No Limit [Fairy Tail: Final Series]",
+		"title":	"No Limit [Fairy Tail - Final Series]",
 		"url":	"https://www.youtube.com/watch?v=yuL_spE1IF8",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	116,
 		"artist":	"BiSH",
-		"title":	"More than Like [Fairy Tail: Final Series]",
+		"title":	"More than Like [Fairy Tail - Final Series]",
 		"url":	"https://www.youtube.com/watch?v=ze6M2tYME9s",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	117,
 		"artist":	"Reina Ueda",
 		"title":	"Literature [The Journey of Elaina]",
 		"url":	"https://www.youtube.com/watch?v=7u9MtqfcWaU",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	118,
 		"artist":	"Yui Horie",
-		"title":	"chocolate insomnia [Monogatari Series: Second Season]",
+		"title":	"chocolate insomnia [Monogatari Series - Second Season]",
 		"url":	"https://www.youtube.com/watch?v=_tSJhgUpfLk",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	119,
 		"artist":	"Emiri Katou",
-		"title":	"Happy bite [Monogatari Series: Second Season]",
+		"title":	"Happy bite [Monogatari Series - Second Season]",
 		"url":	"https://www.youtube.com/watch?v=-EvSLS1QIYY",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	120,
 		"artist":	"Kana Hanazawa",
-		"title":	"Mousou Express [Monogatari Series: Second Season]",
+		"title":	"Mousou Express [Monogatari Series - Second Season]",
 		"url":	"https://www.youtube.com/watch?v=y2XArpEcygc",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	121,
 		"artist":	"Hiroaki Miyakoshi and Shigeru Yamada",
-		"title":	"White Lies [Monogatari Series: Second Season]",
+		"title":	"White Lies [Monogatari Series - Second Season]",
 		"url":	"https://www.youtube.com/watch?v=j-ks1F9bpik",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	122,
 		"artist":	"Chihiro Yonekura",
-		"title":	"Fast Love [Monogatari Series: Second Season]",
+		"title":	"Fast Love [Monogatari Series - Second Season]",
 		"url":	"https://www.youtube.com/watch?v=lpt25kl0Lso",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	123,
 		"artist":	"SCREEN mode",
 		"title":	"Naked Dive [Myriad Colors Phantom World]",
 		"url":	"https://www.youtube.com/watch?v=eszN0xTFBv8",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	124,
 		"artist":	"Yuiko Oohara",
 		"title":	"Tabibito no Uta [Mushoku Tensei]",
 		"url":	"https://www.youtube.com/watch?v=QG8UZUahRbI",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	125,
 		"artist":	"Yuiko Oohara",
 		"title":	"Mezame no Uta [Mushoku Tensei]",
-		"url":	"https://www.youtube.com/watch?v=5ZzSxI2HGSs",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=NEh3-Qmq1LE",
+		"status":	"adjusted"
 	}, {
 		"id":	126,
-		"artist":	"",
+		"artist":	"Yuiko Oohara",
 		"title":	"Keishou no Uta [Mushoku Tensei part 2]",
-		"url":	"https://www.youtube.com/watch?v=Fr46aDV1am4",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=uFtCdcbEuc8",
+		"status":	"adjusted"
 	}, {
 		"id":	127,
 		"artist":	"Yuiko Oohara",
 		"title":	"Inori no Uta [Mushoku Tensei part 2]",
 		"url":	"https://www.youtube.com/watch?v=A6jB63n5QCM",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	128,
 		"artist":	"Yuiko Oohara",
 		"title":	"Toku no komori no uta [Mushoku Tensei part 2]",
 		"url":	"https://www.youtube.com/watch?v=gJG6HX7vJcs",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	129,
 		"artist":	"Yousei Teikoku",
 		"title":	"Kuusou Mesorogiwi [The Future Diary]",
 		"url":	"https://www.youtube.com/watch?v=FPQ9qXb8_vk",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	130,
 		"artist":	"Faylan",
 		"title":	"Dead End [The Future Diary]",
 		"url":	"https://www.youtube.com/watch?v=0_36iNzrEn0",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	131,
 		"artist":	"Ikimonogakari",
 		"title":	"Netsujou no Spectrum [The Seven Deadly Sins]",
 		"url":	"https://www.youtube.com/watch?v=Oc9NgPgUO3E",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	132,
 		"artist":	"MAN WITH A MISSION",
 		"title":	"Seven Deadly Sins [The Seven Deadly Sins]",
 		"url":	"https://www.youtube.com/watch?v=mRKZ7P79llw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	133,
-		"artist":	"",
-		"title":	"Hikari Are [The Seven Deadly Sins: Dragon's Judgement]",
-		"url":	"https://www.youtube.com/watch?v=cvAza2ULRXo",
-		"status":	"missing"
+		"artist":	"Akihito Okano",
+		"title":	"Hikari Are [The Seven Deadly Sins - Dragon's Judgement]",
+		"url":	"https://www.youtube.com/watch?v=B-sxGXLOL5E",
+		"status":	"adjusted"
 	}, {
 		"id":	134,
-		"artist":	"",
-		"title":	"Eien no Aria [The Seven Deadly Sins: Dragon's Judgement]",
-		"url":	"https://www.youtube.com/watch?v=IqzXkPiFVAw",
-		"status":	"missing"
+		"artist":	"Sora Amamiya",
+		"title":	"Eien no Aria [The Seven Deadly Sins - Dragon's Judgement]",
+		"url":	"https://www.youtube.com/watch?v=6jJS--3DcGY",
+		"status":	"adjusted"
 	}, {
 		"id":	135,
 		"artist":	"FLOW x GRANRODEO",
-		"title":	"Howling [The Seven Deadly Sins: Revival of the Commandments]",
+		"title":	"Howling [The Seven Deadly Sins - Revival of the Commandments]",
 		"url":	"https://www.youtube.com/watch?v=oI1-CxBkJeY",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	136,
 		"artist":	"Sky Peace",
-		"title":	"Ame ga Furu kara Niji ga Deru [The Seven Deadly Sins: Revival of the Commandments]",
+		"title":	"Ame ga Furu kara Niji ga Deru [The Seven Deadly Sins - Revival of the Commandments]",
 		"url":	"https://www.youtube.com/watch?v=G5EY_tfaQmw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	137,
 		"artist":	"UVERworld",
-		"title":	"Rob the Frontier [The Seven Deadly Sins: Wrath of the Gods]",
+		"title":	"Rob the Frontier [The Seven Deadly Sins - Wrath of the Gods]",
 		"url":	"https://www.youtube.com/watch?v=fo4MzYmBzHs",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	138,
 		"artist":	"SID",
-		"title":	"Delete [The Seven Deadly Sins: Wrath of the Gods]",
+		"title":	"Delete [The Seven Deadly Sins - Wrath of the Gods]",
 		"url":	"https://www.youtube.com/watch?v=OVtX2SKkvj8",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	139,
 		"artist":	"Yui Horie",
 		"title":	"Perfect Slumbers [Nekomonogatari Black]",
 		"url":	"https://www.youtube.com/watch?v=MdMH9K4L-4g",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	140,
 		"artist":	"ClariS",
 		"title":	"Click [Nisekoi]",
 		"url":	"https://www.youtube.com/watch?v=0SHOuFY9_dg",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	141,
 		"artist":	"ClariS",
 		"title":	"Step [Nisekoi]",
 		"url":	"https://www.youtube.com/watch?v=u9f2-RMVZhk",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	142,
 		"artist":	"LiSA",
-		"title":	"Rally Go Round [Nisekoi:]",
+		"title":	"Rally Go Round [Nisekoi]",
 		"url":	"https://www.youtube.com/watch?v=quqAd6rZDiE",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	143,
 		"artist":	"Chiwa Saito",
 		"title":	"Futakotome [Nisemonogatari]",
 		"url":	"https://www.youtube.com/watch?v=1LKYgC4QB6I",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	144,
 		"artist":	"Eri Kitamura",
 		"title":	"Marshmallow Justice [Nisemonogatari]",
 		"url":	"https://www.youtube.com/watch?v=DOF_GkqMYTw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	145,
 		"artist":	"Yuka Iguchi",
 		"title":	"Platinum Disco [Nisemonogatari]",
 		"url":	"https://www.youtube.com/watch?v=S-4r9ZnBycQ",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	146,
 		"artist":	"Konomi Suzuki",
 		"title":	"This Game [No Game No Life]",
 		"url":	"https://www.youtube.com/watch?v=uuXlfVNgwvo",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	147,
 		"artist":	"Hello Sleepwalkers",
 		"title":	"Goya no Machiawase [Noragami]",
 		"url":	"https://www.youtube.com/watch?v=J69oCCM1EcI",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	148,
-		"artist":	"",
+		"artist":	"Natsumi Kiyoura",
 		"title":	"Tabi no Tochuu [Spice and Wolf]",
-		"url":	"https://www.youtube.com/watch?v=MN_WgwEmRaw",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=W6q1AWnjNiU",
+		"status":	"adjusted"
 	}, {
 		"id":	149,
-		"artist":	"",
+		"artist":	"OxT",
 		"title":	"Clattanoia [Overlord]",
-		"url":	"https://www.youtube.com/watch?v=k5H5cxmZL-A",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=saah9UTwaUI",
+		"status":	"adjusted"
 	}, {
 		"id":	150,
-		"artist":	"",
+		"artist":	"OxT",
 		"title":	"Go Cry Go [Overlord II]",
-		"url":	"https://www.youtube.com/watch?v=v4OKxyQdTvg",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=8t3umiPuIQ8",
+		"status":	"adjusted"
 	}, {
 		"id":	151,
-		"artist":	"",
+		"artist":	"MYTH & ROID",
 		"title":	"Voracity [Overlord III]",
-		"url":	"https://www.youtube.com/watch?v=611k184Ia3E",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=XPOIe6WdhPQ",
+		"status":	"adjusted"
 	}, {
 		"id":	152,
-		"artist":	"",
+		"artist":	"Kaori Mizuhashi",
 		"title":	"Decent Black [Owarimonogatari]",
 		"url":	"https://www.youtube.com/watch?v=A0Iw47S3z90",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	153,
-		"artist":	"",
+		"artist":	"Marina Inoue",
 		"title":	"Mathemagics [Owarimonogatari]",
 		"url":	"https://www.youtube.com/watch?v=F_Cr9vZ08Ws",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	154,
-		"artist":	"",
+		"artist":	"Marina Inoue",
 		"title":	"Yuudachi Houteishiki [Owarimonogatari]",
 		"url":	"https://www.youtube.com/watch?v=aoV0PKHdWXw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	155,
-		"artist":	"",
+		"artist":	"meg rock",
 		"title":	"Mein Schatz [Owarimonogatari]",
 		"url":	"https://www.youtube.com/watch?v=FJ58Dk_cJKA",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	156,
 		"artist":	"Emiri Katou",
 		"title":	"Terminal Terminal [Owarimonogatari 2nd Season]",
 		"url":	"https://www.youtube.com/watch?v=0PQognlehfU",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	157,
-		"artist":	"",
+		"artist":	"Chiwa Saito",
 		"title":	"Dreamy Date Drive [Owarimonogatari 2nd Season]",
 		"url":	"https://www.youtube.com/watch?v=IUv14HK_EUk",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	158,
-		"artist":	"",
+		"artist":	"Kaori Mizuhashi",
 		"title":	"Dark Cherry Mystery [Owarimonogatari 2nd Season]",
 		"url":	"https://www.youtube.com/watch?v=hhxmwHErUhU",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	159,
-		"artist":	"",
+		"artist":	"Miku Itou",
 		"title":	"Plunderer [Plunderer]",
 		"url":	"https://www.youtube.com/watch?v=1jVHUO5qVJM",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	160,
-		"artist":	"",
+		"artist":	"Miku Itou",
 		"title":	"Kokou no Hikari Lonely Dark [Plunderer]",
 		"url":	"https://www.youtube.com/watch?v=NRCcrLuG4MM",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	161,
-		"artist":	"",
-		"title":	"Redo [Re:Zero]",
+		"artist":	"Konomi Suzuki",
+		"title":	"Redo [ReZero]",
 		"url":	"https://www.youtube.com/watch?v=EV4Tc014Hek",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	162,
-		"artist":	"",
-		"title":	"Paradisius Paradoksum [Re:Zero]",
+		"artist":	"MYTH & ROID",
+		"title":	"Paradisius Paradoksum [ReZero]",
 		"url":	"https://www.youtube.com/watch?v=6Af7lOubjf4",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	163,
-		"artist":	"",
-		"title":	"Realize [Re:Zero 2nd season]",
+		"artist":	"Konomi Suzuki",
+		"title":	"Realize [ReZero 2nd season]",
 		"url":	"https://www.youtube.com/watch?v=AwHapidVQlI",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	164,
-		"artist":	"",
-		"title":	"Long Shot [Re:Zero 2nd season 2 Part 2]",
+		"artist":	"Mayu Maeshima",
+		"title":	"Long Shot [ReZero 2nd season 2 Part 2]",
 		"url":	"https://www.youtube.com/watch?v=lUmLhQBGtYw",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	165,
-		"artist":	"",
+		"artist":	"Hitomi Harada",
 		"title":	"Kyoumei no True Force [Blade Dance of the Elementalers]",
 		"url":	"https://www.youtube.com/watch?v=E69e32sSLfU",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	166,
-		"artist":	"",
+		"artist":	"the peggies",
 		"title":	"Kimi no Sei [Rascal Does Not Dream of Bunny Girl Senpai]",
 		"url":	"https://www.youtube.com/watch?v=hL011v_heIs",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	167,
-		"artist":	"",
+		"artist":	"Goose house",
 		"title":	"Hikaru Nara [Your Lie in April]",
 		"url":	"https://www.youtube.com/watch?v=5_iuNaULT5k",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	168,
-		"artist":	"",
+		"artist":	"Coala Mode.",
 		"title":	"Nanairo Symphony [Your Lie in April]",
 		"url":	"https://www.youtube.com/watch?v=fWRaQ_S48R0",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	169,
-		"artist":	"",
+		"artist":	"MYTH & ROID",
 		"title":	"Tit for Tat [Cautious Hero]",
 		"url":	"https://www.youtube.com/watch?v=rqJg9Syyjq0",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	170,
-		"artist":	"",
+		"artist":	"Linked Horizon",
 		"title":	"Guren no Yumiya [Attack on Titan]",
 		"url":	"https://www.youtube.com/watch?v=8OkpRK2_gVs",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	171,
-		"artist":	"",
+		"artist":	"Linked Horizon",
 		"title":	"Jiyuu no Tsubasa [Attack on Titan]",
 		"url":	"https://www.youtube.com/watch?v=PbWFpzi8C94",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	172,
-		"artist":	"",
+		"artist":	"Linked Horizon",
 		"title":	"Shinzou wo Sasageyo [Attack on Titan Season 2]",
 		"url":	"https://www.youtube.com/watch?v=WAoPeG1LU1g",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	173,
-		"artist":	"",
+		"artist":	"YOSHIKI feat. HYDE",
 		"title":	"Red Swan [Attack on Titan Season 3]",
 		"url":	"https://www.youtube.com/watch?v=swwUoExDIng",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	174,
-		"artist":	"",
+		"artist":	"Linked Horizon",
 		"title":	"Shoukei to Shikabane no Michi [Attack on Titan Season 3 Part 2]",
 		"url":	"https://www.youtube.com/watch?v=jhYg5NrN-r8",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	175,
-		"artist":	"",
-		"title":	"My War [Attack on Titan: The Final Season]",
+		"artist":	"Shinsei Kamattechan",
+		"title":	"My War [Attack on Titan - The Final Season]",
 		"url":	"https://www.youtube.com/watch?v=w2y715XAmso",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	176,
-		"artist":	"",
-		"title":	"The Rumbling [Attack on Titan: The Final Season Part 2]",
+		"artist":	"SiM",
+		"title":	"The Rumbling [Attack on Titan - The Final Season Part 2]",
 		"url":	"https://www.youtube.com/watch?v=2S4qGKmzBJE",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	177,
-		"artist":	"",
+		"artist":	"Aoi Yuuki",
 		"title":	"Gudafuwa Every Day [I've Been Killing Slimes for 300 Years and Maxed Out My Level]",
 		"url":	"https://www.youtube.com/watch?v=n6q-99Q0BlI",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	178,
-		"artist":	"",
+		"artist":	"Kanako Itou",
 		"title":	"Hacking to the Gate [Steins;Gate]",
 		"url":	"https://www.youtube.com/watch?v=ZGM90Bo3zH0",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	179,
-		"artist":	"",
+		"artist":	"LiSA",
 		"title":	"Crossing Field [Sword Art Online]",
 		"url":	"https://www.youtube.com/watch?v=vI8W_XYT29Q",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	180,
-		"artist":	"",
+		"artist":	"Aoi Eir",
 		"title":	"Innocence [Sword Art Online]",
 		"url":	"https://www.youtube.com/watch?v=O8T2u83GIiI",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	181,
-		"artist":	"",
+		"artist":	"Aoi Eir",
 		"title":	"Ignite [Sword Art Online II]",
 		"url":	"https://www.youtube.com/watch?v=frw21EeOrV0",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	182,
-		"artist":	"",
+		"artist":	"Haruka Tomatsu",
 		"title":	"Courage [Sword Art Online II]",
-		"url":	"https://www.youtube.com/watch?v=3n569HxD2Rk",
-		"status":	"missing"
+		"url":	"https://www.youtube.com/watch?v=AuwxFEXhALU",
+		"status":	"adjusted"
 	}, {
 		"id":	183,
-		"artist":	"",
-		"title":	"Adamas [Sword Art Online: Alicization]",
+		"artist":	"LiSA",
+		"title":	"Adamas [Sword Art Online - Alicization]",
 		"url":	"https://www.youtube.com/watch?v=i_Y-GwM6o5M",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	184,
-		"artist":	"",
-		"title":	"Resister [Sword Art Online: Alicization]",
+		"artist":	"ASCA",
+		"title":	"Resister [Sword Art Online - Alicization]",
 		"url":	"https://www.youtube.com/watch?v=uEO_D0Cz2R8",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	185,
-		"artist":	"",
+		"artist":	"MADKID",
 		"title":	"Rise [The Rising of the Shield Hero]",
 		"url":	"https://www.youtube.com/watch?v=lzsow8bnT3Y",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	186,
-		"artist":	"",
+		"artist":	"MADKID",
 		"title":	"Faith [The Rising of the Shield Hero]",
 		"url":	"https://www.youtube.com/watch?v=9wtlzZG0_Bg",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	187,
-		"artist":	"",
+		"artist":	"Takuma Terashima",
 		"title":	"Nameless Story [That Time I Got Reincarnated as a Slime]",
 		"url":	"https://www.youtube.com/watch?v=GhGTc6p8sg0",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	188,
-		"artist":	"",
+		"artist":	"Takuma Terashima",
 		"title":	"Meguru Mono [That Time I Got Reincarnated as a Slime]",
 		"url":	"https://www.youtube.com/watch?v=N6yx38obFek",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	189,
-		"artist":	"",
+		"artist":	"TRUE",
 		"title":	"Storyteller [That Time I Got Reincarnated as a Slime Season 2]",
 		"url":	"https://www.youtube.com/watch?v=XQqQqK9ufo8",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	190,
-		"artist":	"",
+		"artist":	"MindaRyn",
 		"title":	"Like Flames [That Time I Got Reincarnated as a Slime Season 2 Part 2]",
 		"url":	"https://www.youtube.com/watch?v=jEDQmD7nhyQ",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	191,
-		"artist":	"",
+		"artist":	"Akane Kumada",
 		"title":	"Brand New Diary [The Slime Diaries]",
 		"url":	"https://www.youtube.com/watch?v=huuLekCNAGk",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	192,
-		"artist":	"",
+		"artist":	"THE SIXTH LIE",
 		"title":	"Shadow is the Light [A Certain Scientific Accelerator]",
 		"url":	"https://www.youtube.com/watch?v=TQTam1zQe0o",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	193,
-		"artist":	"",
+		"artist":	"fripSide",
 		"title":	"Only My Railgun [A Certain Scientific Railgun]",
 		"url":	"https://www.youtube.com/watch?v=q_sQUK418mM",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	194,
-		"artist":	"",
+		"artist":	"fripSide",
 		"title":	"Level 5 [A Certain Scientific Railgun]",
 		"url":	"https://www.youtube.com/watch?v=1NYUKIZCV5k",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	195,
-		"artist":	"",
+		"artist":	"fripSide",
 		"title":	"Sister's noise [A Certain Scientific Railgun S]",
 		"url":	"https://www.youtube.com/watch?v=R3shsgKbd_M",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	196,
-		"artist":	"",
+		"artist":	"fripSide",
 		"title":	"Eternal Reality [A Certain Scientific Railgun S]",
 		"url":	"https://www.youtube.com/watch?v=VNotN0dDMLc",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	197,
-		"artist":	"",
+		"artist":	"Mami Kawada",
 		"title":	"Psi-missing [A Certain Magical Index]",
 		"url":	"https://www.youtube.com/watch?v=fv2Ybecq92E",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	198,
-		"artist":	"",
+		"artist":	"Mami Kawada",
 		"title":	"Masterpiece [A Certain Magical Index]",
 		"url":	"https://www.youtube.com/watch?v=Q34iirTNwr4",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	199,
-		"artist":	"",
+		"artist":	"Mami Kawada",
 		"title":	"No Buts [A Certain Magical Index II]",
 		"url":	"https://www.youtube.com/watch?v=YKvnc7z0roM",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	200,
-		"artist":	"",
+		"artist":	"Mami Kawada",
 		"title":	"See visions [A Certain Magical Index II]",
 		"url":	"https://www.youtube.com/watch?v=uqEwvVIeFr4",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	201,
-		"artist":	"",
+		"artist":	"MYTH & ROID",
 		"title":	"Jingo Jungle [Saga of Tanya the Evil]",
 		"url":	"https://www.youtube.com/watch?v=cOD9g8lY8zA",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	202,
-		"artist":	"",
+		"artist":	"ClariS",
 		"title":	"Hitorigoto [Eromanga Sensei]",
 		"url":	"https://www.youtube.com/watch?v=DeGw8-KwxM4",
-		"status":	"missing"
+		"status":	"adjusted"
 	}, {
 		"id":	203,
-		"artist":	"",
+		"artist":	"SID",
 		"title":	"Monochrome no Kiss [Black Butler]",
 		"url":	"https://www.youtube.com/watch?v=Nfs1BWgHcnA",
-		"status":	"missing"
+		"status":	"error"
 	}, {
 		"id":	204,
 		"artist":	"Katama DIY Club!!",
 		"title":	"Dokidoki Idea o Yoroshiku! [Do It Yourself!!]",
 		"url":	"https://www.youtube.com/watch?v=_HK2ZH_2wUk",
-		"status":	"missing"
+		"status":	"adjusted"
+	}, {
+		"id":	205,
+		"artist":	"Linked Horizon",
+		"title":	"The Last Titan [Attack on Titan: Final Season - The Final Chapters]",
+		"url":	"https://www.youtube.com/watch?v=QQaT50lkN3c",
+		"status":	"adjusted"
 	}]

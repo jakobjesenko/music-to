@@ -1,10 +1,18 @@
 import os
 import regex
+import json
 
+pub fn load_list(file string) []SongData {
+	return json.decode([]SongData, os.read_file(file) or {''}) or {[]}
+}
+
+pub fn make_filename(song SongData, extension string) string {
+	return 'songs/${song.title} by ${song.artist}${extension}'
+}
 
 pub fn download_audio(song SongData)! {
-	output := os.execute('yt-dlp -f "ba" -x --audio-format mp3 -o "songs/${song.title} by ${song.artist}" ${song.url}')
-	//output := os.execute('echo "songs/${song.title} by ${song.artist}"')
+	output := os.execute('yt-dlp -f "ba" -x --audio-format mp3 -o "${make_filename(song, '')}" ${song.url}')
+	//output := os.execute('echo "${make_filename(song, '')}"')
 	if output.exit_code == 0 {
 		println('Success: ${output.output}')
 		return
@@ -12,14 +20,9 @@ pub fn download_audio(song SongData)! {
 	return error('${output.output}')
 }
 
-pub fn (mut app App) download_all(mut song_list []SongData, mut logfile &os.File)! {
+pub fn download_all(mut song_list []SongData, mut logfile &os.File)! {
 	for mut song in song_list {
-		// to be removed when file is updated.
-		if song.artist.len == 0{
-			return
-		}
-		//
-		if song.status != .present {
+		if song.status == .missing || song.status == .error {
 			download_audio(song) or {
 				logfile.writeln('${song}\n${err.str()}')!
 				song.status = .error
@@ -28,13 +31,13 @@ pub fn (mut app App) download_all(mut song_list []SongData, mut logfile &os.File
 			song.status = .present
 		}
 	}
-	lock app.song_list {
-		app.song_list = song_list.clone()
-	}
 }
 
 pub fn get_volume(filename string) !f32 {
 	output := os.execute('ffmpeg -i "${filename}" -hide_banner -af volumedetect -f null /dev/null')
+	if output.exit_code != 0 {
+		return error (output.output)
+	}
 	mut re := regex.regex_opt(r'.*mean_volume: (-?\d+\.?\d*).*') or { return error('Cannot create regex') }
 	re.match_string(output.output)
 	if re.groups.len < 2 {
@@ -46,7 +49,6 @@ pub fn get_volume(filename string) !f32 {
 	} else {
 		return error('Cannot read volume of file: ${filename}')
 	}
-
 }
 
 pub fn normalize_file(filename string, target f32)! {
@@ -60,6 +62,22 @@ pub fn normalize_file(filename string, target f32)! {
 	os.rm(filename.replace('.mp3', '.tmp'))!
 }
 
+pub fn normalize_dir(mut song_list []SongData, mut logfile &os.File){
+	for mut song in song_list {
+		if song.status != .present {
+			continue
+		}
+		normalize_file(make_filename(song, '.mp3'), -20) or {
+			logfile.writeln('${song}\n${err.str()}') or {
+				eprintln(err)
+				continue
+			}
+			continue
+		}
+		song.status = .adjusted
+	}
+}
+
 pub fn (mut app App) process_jobs(){
 	mut logfile := os.open_append('download.log') or {
 		eprintln('Cannot not open log file.')
@@ -70,12 +88,15 @@ pub fn (mut app App) process_jobs(){
 	}
 
 	mut song_list := []SongData{}
-	rlock app.song_list {
-		song_list = app.song_list.clone()
+	rlock app.shared_data {
+		song_list = app.shared_data.song_list.clone()
 	}
-	app.download_all(mut song_list, mut logfile) or {
+	download_all(mut song_list, mut logfile) or {
 		eprintln(err)
 		return
 	}
-
+	normalize_dir(mut song_list, mut logfile)
+	lock app.shared_data {
+		app.shared_data.song_list = song_list.clone()
+	}
 }

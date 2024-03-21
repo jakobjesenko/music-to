@@ -1,6 +1,13 @@
 module main
+import os
+import json
 
 fn test_get_volume() {
-	normalize_file('songs/A Cruel Angel\'s Thesis [Neon Genesis Evangelion] by Yoko Takahashi.mp3', -20.0) or { return }
-	println(get_volume('songs/A Cruel Angel\'s Thesis [Neon Genesis Evangelion] by Yoko Takahashi.mp3') or { return })
+	temp := os.read_file('./songs.json') or {return}
+	mut song_list :=json.decode([]SongData, temp) or {return}
+	s := song_list[38]
+	println(s)
+	normalize_file(make_filename(s, '.mp3'), -20.0) or {
+		eprintln(err)
+	}
 }
