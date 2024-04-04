@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <meta charset="utf-8">
   <head>
     <title>V is the new V</title>
     @css 'templates/page/home.css'
@@ -9,13 +10,17 @@
     <label for="list-file">Select file: </label>
     <select name="list-file" id="list-file">
       @for filename in file_list
-      <option value="${filename}">${filename}</option>
+        @if filename == list_file
+          <option value="${filename}" selected>${filename}</option>
+        @else
+          <option value="${filename}">${filename}</option>
+        @end
       @end
     </select><br>
     <button id="run-jobs">Run jobs</button><br>
     <button id="write-list">Write-list</button>
     <h1 class="title">Add song</h1>
-    <form action="/add-song" method="post" enctype="multipart/form-data">
+    <form action="/" method="post" enctype="multipart/form-data">
         <label for="artist">Artist: </label><input type="text" name="artist"><br>
         <label for="song-title">Title: </label><input type="text" name="song-title"><br>
         <label for="song-url">Url: </label><input type="text" name="song-url"><br>

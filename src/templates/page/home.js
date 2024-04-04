@@ -20,3 +20,8 @@ document.querySelector('#write-list').addEventListener('click', () => {
         res => res.text(), () => console.log('Something went wrong.')
     ).then(text => console.log(text), () => console.log('Something went wrong.'));
 });
+
+const listFile = document.querySelector('#list-file')
+listFile.addEventListener('change', () => {
+    location.replace(`/?file=${listFile.value}`);
+});

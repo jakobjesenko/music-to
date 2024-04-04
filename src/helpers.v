@@ -6,13 +6,13 @@ pub fn load_list(file string) []SongData {
 	return json.decode([]SongData, os.read_file(file) or {''}) or {[]}
 }
 
-pub fn make_filename(song SongData, extension string) string {
-	return 'songs/${song.title} by ${song.artist}${extension}'
+pub fn make_filename(song SongData, extension string, list_file string) string {
+	return '${list_file}/${song.title} by ${song.artist}${extension}'
 }
 
-pub fn download_audio(song SongData)! {
-	output := os.execute('yt-dlp -f "ba" -x --audio-format mp3 -o "${make_filename(song, '')}" ${song.url}')
-	//output := os.execute('echo "${make_filename(song, '')}"')
+pub fn download_audio(song SongData, list_file string)! {
+	output := os.execute('yt-dlp -f "ba" -x --audio-format mp3 -o "${make_filename(song, '', list_file)}" ${song.url}')
+	//output := os.execute('echo "${make_filename(song, '', list_file)}"')
 	if output.exit_code == 0 {
 		println('Success: ${output.output}')
 		return
@@ -20,10 +20,10 @@ pub fn download_audio(song SongData)! {
 	return error('${output.output}')
 }
 
-pub fn download_all(mut song_list []SongData, mut logfile &os.File)! {
+pub fn download_all(mut song_list []SongData, mut logfile &os.File, list_file string)! {
 	for mut song in song_list {
 		if song.status == .missing || song.status == .error {
-			download_audio(song) or {
+			download_audio(song, list_file) or {
 				logfile.writeln('${song}\n${err.str()}')!
 				song.status = .error
 				continue
@@ -62,12 +62,12 @@ pub fn normalize_file(filename string, target f32)! {
 	os.rm(filename.replace('.mp3', '.tmp'))!
 }
 
-pub fn normalize_dir(mut song_list []SongData, mut logfile &os.File){
+pub fn normalize_dir(mut song_list []SongData, mut logfile &os.File, list_file string){
 	for mut song in song_list {
 		if song.status != .present {
 			continue
 		}
-		normalize_file(make_filename(song, '.mp3'), -20) or {
+		normalize_file(make_filename(song, '.mp3', list_file), -20) or {
 			logfile.writeln('${song}\n${err.str()}') or {
 				eprintln(err)
 				continue
@@ -88,14 +88,16 @@ pub fn (mut app App) process_jobs(){
 	}
 
 	mut song_list := []SongData{}
+	mut list_file := ''
 	rlock app.shared_data {
 		song_list = app.shared_data.song_list.clone()
+		list_file = app.shared_data.list_file
 	}
-	download_all(mut song_list, mut logfile) or {
+	download_all(mut song_list, mut logfile, list_file) or {
 		eprintln(err)
 		return
 	}
-	normalize_dir(mut song_list, mut logfile)
+	normalize_dir(mut song_list, mut logfile, list_file)
 	lock app.shared_data {
 		app.shared_data.song_list = song_list.clone()
 	}

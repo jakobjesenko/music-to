@@ -46,10 +46,10 @@ fn new_app() &App {
 	// makes all static files available.
 	app.mount_static_folder_at(os.resource_abs_path('./src'), '/')
 
-	default_file := './songs.json'
+	default_file := 'songs'
 	lock app.shared_data {
 		app.shared_data.list_file = default_file
-		app.shared_data.song_list = load_list(default_file)
+		app.shared_data.song_list = load_list('./${default_file}.json')
 	}
 
 	return app
@@ -57,19 +57,30 @@ fn new_app() &App {
 
 @['/'; post; get]
 pub fn (mut app App) page_home() vweb.Result {
-	if app.req.method == .post{
-		temp := SongData{
+	if app.req.method == .post {
+		mut temp := SongData{
 			artist: app.form['artist'],
 			title: app.form['song-title'],
 			url: app.form['song-url']
 			status: .missing
 		}
 		lock app.shared_data {
+			temp.id = app.shared_data.song_list.len
 			app.shared_data.song_list << temp
 		}
 	}
-	song_list := app.shared_data.song_list
+	lock app.shared_data {
+		got_file := app.query['file'] or {app.shared_data.list_file}
+		os.write_file('./${app.shared_data.list_file}.json', json.encode_pretty(app.shared_data.song_list)) or { 
+			app.set_status(500, 'Writing the list failed.')
+			app.text('Write Failed')
+		}
+		app.shared_data.list_file = got_file
+		app.shared_data.song_list = load_list('./${got_file}.json')
+	}
 	file_list := ['songs', 'slon']
+	list_file := app.shared_data.list_file
+	song_list := app.shared_data.song_list
 	return $vweb.html()
 }
 
@@ -83,7 +94,7 @@ pub fn (mut app App) run_jobs() vweb.Result {
 pub fn (mut app App) page_writelist() vweb.Result {
 	lock app.shared_data {
 		temp := app.shared_data.song_list.clone()
-		os.write_file(app.shared_data.list_file, json.encode_pretty(temp)) or { 
+		os.write_file('./${app.shared_data.list_file}.json', json.encode_pretty(temp)) or { 
 			app.set_status(500, 'Writing the list failed.')
 			app.text('Write Failed')
 		}
